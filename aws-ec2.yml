@@ -1,0 +1,23 @@
+
+- hosts: localhost
+  vars_files:
+         - mykeys.yml
+  roles:
+  - aws-ec2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
